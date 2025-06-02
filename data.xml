@@ -1,0 +1,20 @@
+<produk>
+    <item>
+        <nama>Tempe Oishi</nama>
+        <ukuran>150 Gram</ukuran>
+        <gambar>img/product-150.png</gambar>
+        <link>https://s.shopee.co.id/3qAkneCiBm</link>
+    </item>
+    <item>
+        <nama>Tempe Oishi</nama>
+        <ukuran>250 Gram</ukuran>
+        <gambar>img/product-250.png</gambar>
+        <link>https://s.shopee.co.id/3qAkneCiBm</link>
+    </item>
+    <item>
+        <nama>Tempe Oishi</nama>
+        <ukuran>450 Gram</ukuran>
+        <gambar>img/product-450.png</gambar>
+        <link>https://s.shopee.co.id/AKOEXXfHNI</link>
+    </item>
+</produk>
